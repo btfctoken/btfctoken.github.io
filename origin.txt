@@ -1,0 +1,156 @@
+Uri: https://waveslitewallet.com/
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\index.htm
+Content Type: text/html
+
+Uri: https://waveslitewallet.com/css/waves-lite-client-styles-0.5.18.css
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\css\waves-lite-client-styles-0.5.18.css
+Content Type: text/css
+
+Uri: https://waveslitewallet.com/img/favicon.ico
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://waveslitewallet.com/img/logo-spin.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\logo-spin.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/topleftlogo.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\topleftlogo.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/wIcon_x.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\wIcon_x.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/blog_icon.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\blog_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/twitter_icon.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\twitter_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/facebook_icon.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\facebook_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/slack_icon.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\slack_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/reddit_icon.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\reddit_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/vk_icon.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\vk_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/topleftlogo_hor.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\topleftlogo_hor.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/uiTB-iconset-backup.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\uiTB-iconset-backup.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/uiTB-iconset-preferences.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\uiTB-iconset-preferences.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/uiTB-iconset-profile.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\uiTB-iconset-profile.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/uiTB-iconset-logout.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\uiTB-iconset-logout.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/visa_mastercard_116x35.gif
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\visa_mastercard_116x35.gif
+Content Type: image/gif
+
+Uri: https://waveslitewallet.com/img/tab_vote_prev.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\tab_vote_prev.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/tab_cont_prev.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\tab_cont_prev.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/modal-header.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\modal-header.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/js/waves-lite-client-mainnet-0.5.18.js
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\js\waves-lite-client-mainnet-0.5.18.js
+Content Type: application/javascript
+
+Uri: https://waveslitewallet.com/fonts/wesli.woff
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\wesli.woff
+Content Type: font/woff
+
+Uri: https://waveslitewallet.com/fonts/wesli.ttf
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\wesli.ttf
+Content Type: font/ttf
+
+Uri: https://waveslitewallet.com/fonts/engo.woff
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\engo.woff
+Content Type: font/woff
+
+Uri: https://waveslitewallet.com/fonts/engo.ttf
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\engo.ttf
+Content Type: font/ttf
+
+Uri: https://waveslitewallet.com/fonts/sparta.woff
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\sparta.woff
+Content Type: font/woff
+
+Uri: https://waveslitewallet.com/fonts/sparta.ttf
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\sparta.ttf
+Content Type: font/ttf
+
+Uri: https://waveslitewallet.com/fonts/lekton.woff
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\lekton.woff
+Content Type: font/woff
+
+Uri: https://waveslitewallet.com/fonts/lekton.ttf
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\lekton.ttf
+Content Type: font/ttf
+
+Uri: https://waveslitewallet.com/img/wIcon_tip.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\wIcon_tip.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/wIcon_clip.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\wIcon_clip.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/wIcon_clip_txOut.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\wIcon_clip_txOut.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/img/lockbg005b.jpg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\lockbg005b.jpg
+Content Type: image/jpeg
+
+Uri: https://waveslitewallet.com/img/wIcon_clip_txIn.svg
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\img\wIcon_clip_txIn.svg
+Content Type: image/svg+xml
+
+Uri: https://waveslitewallet.com/fonts/wesli.eot
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\wesli.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://waveslitewallet.com/fonts/engo.eot
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\engo.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://waveslitewallet.com/fonts/sparta.eot
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\sparta.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://waveslitewallet.com/fonts/lekton.eot
+File Name: C:\Users\El Pequeño Genio\Desktop\waveslitewallet.com\fonts\lekton.eot
+Content Type: application/vnd.ms-fontobject
+
